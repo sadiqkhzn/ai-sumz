@@ -77,11 +77,3 @@ npm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
-
-
-## <a name="links">🔗 Links</a>
-
-Assets used in the project are [here](https://drive.google.com/file/d/11DLzrWADT-GyhuHpWXobhUwqV8peC0ef/view)
-
-#
-# ai-sumz
